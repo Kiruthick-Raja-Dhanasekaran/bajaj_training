@@ -1,0 +1,9 @@
+datasource:
+      password: 
+      url: jdbc:h2:mem:db1
+      username: sa
+ 
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
